@@ -23,7 +23,7 @@
   MIT
   ## Test
   localhost
- (/Capture.png)
+ ![Demo](/Capture.png)
   ## Questions
   ttran1185@gmail.com
 
